@@ -573,11 +573,5 @@ define([
 
             gridDoc.setStore(newStore);
         }
-
-
-
     });
-
-
-
 });
